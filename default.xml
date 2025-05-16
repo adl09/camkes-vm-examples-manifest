@@ -9,6 +9,8 @@
   <remote name="polly" fetch="https://github.com/ruslo"/>
   <remote name="seL4" fetch="../seL4"/>
   <remote name="zeromq" fetch="https://github.com/zeromq"/>
+  <remote name="adl09" fetch="https://github.com/adl09"/>
+
   
   <default remote="seL4" revision="master"/>
   
